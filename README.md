@@ -11,6 +11,8 @@ As funcionalidades deveriam ser escritas em JavaScript, com ações ao clicar no
 
 ## Funcionamento do código
 
+[Vídeo de funcionamento do código](https://www.youtube.com/watch?v=osDtBD6rhYA)
+
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 
 O HTML foi utilizado para criação estrutural da página. 
