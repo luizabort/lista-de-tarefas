@@ -38,6 +38,8 @@ Com o CSS foi possível:
 
  Procurou-se tornar a aplicação responsiva, com a utilização de flex-box, para um visual que se adequasse a diferentes tamanhos de tela.
 
+ <p align="center"> <img src="imagens/iPhoneSE.png"/>Exemplo de responsividade em tela de iPhone SE</p>
+
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
